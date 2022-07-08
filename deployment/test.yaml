@@ -13,7 +13,7 @@ spec:
         app: flask
     spec:
       containers:
-      - name: vul-flask 
+      - name: vul-app
         image: <image-name>
         ports:
         - containerPort: 5000
