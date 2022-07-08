@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: vul-app
-        image: <image-name>
+        image: 170026776852.dkr.ecr.us-west-2.amazonaws.com/supplychain-vtrxeswf-repo:latest
         ports:
         - containerPort: 5000
 
