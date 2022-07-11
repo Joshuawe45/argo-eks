@@ -15,6 +15,6 @@ spec:
       serviceAccountName: secret-access
       containers:
       - name: vul-app
-        image: 170026776852.dkr.ecr.us-west-2.amazonaws.com/supplychain-tiogrtbb-repo:latest
+        image: 170026776852.dkr.ecr.us-west-2.amazonaws.com/supplychain-gekscnaw-repo:latest
         ports:
         - containerPort: 5000
